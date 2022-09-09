@@ -1,0 +1,1 @@
+sudo docker container stop kbs && sudo docker container rm kbs
