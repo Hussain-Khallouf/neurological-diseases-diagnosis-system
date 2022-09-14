@@ -1,9 +1,9 @@
 # Neurological diseases diagnosis System
-### A web site used to be as An expert system for Neurological diseases diagnosising
-## This project consist of these parts:
-1. ### Knowladge Base System: by collecting data from an Expert, I build an expert system (that is figure in .drawio file) using experta pip package.
+### A website used to be An expert system for Neurological diseases diagnosing
+## This project consists of these parts:
+1. ### Knowledge Base System: by collecting data from an Expert, I build an expert system (that is figured in the .drawio file) using the expert pip package.
 2. ### Web Server: for handling endpoints using FastAPI framework.
-3. ### Tamplate to render: user interfaces which is rendered from the server.
+3. ### Template to render: user interfaces that are rendered from the server.
 
 
-##This project is impelemented based on *Clear Architecture of Unlce Bop*.
+##This project is implemented based on the *Clear Architecture of Uncle Bop*.
